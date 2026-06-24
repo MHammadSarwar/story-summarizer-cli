@@ -14,7 +14,8 @@ I built this as my **first real Python project** while learning software fundame
 
 ## 🧠 Why I Built This
 
-I have a decent grip on ML/DL theory — transformers, attention, the usual learning path. What I didn't have was confidence in writing real, working software from scratch without leaning on AI for every line. This project was my deliberate attempt to fix that: small scope, real bugs, real debugging, no shortcuts.
+I built this project beacause I want to build my skill of creating AI based applications for that I have started something basic but in turn I made up the fundamentals that are necessary for one to understand. This project enables me to review my python knowledge along side using LLM model. Also with this small tool I touched different areas of knowledge and got a entry point to each specifically using AI models from hugging face, using argparse module of python to pass arguments from command line, I handled different types of exceptions and I also used simple database queries to help me start learning database systems by building something meaningful.
+In this project I tried to look for different edge cases moreover I made this project with user experience in mind at every step I asked myself a question how will user interact with this tool and what if user interaction breaks the code what will the user experience this was a great experience for me.
 
 ---
 
